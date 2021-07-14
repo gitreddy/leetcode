@@ -1,4 +1,4 @@
 # leetcode
 
-Vijayan's store of attempted leetcode questions. 
+Vijayan's store of solved leetcode questions. 
 Trying for the fun of it and reviving problem solving/coding
