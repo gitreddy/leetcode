@@ -69,14 +69,14 @@ public class leetcode3
 			{
 				if (s.charAt(0) == s.charAt(j))
 				{
+					System.out.println (s.charAt(j));
 					retVal = j;
 					break;
 				}
 				else
 				{
 					int temp = recursePos (s.substring((j)));
-					retVal = retVal < temp ? temp : retVal;			
-	
+					retVal = retVal < temp ? temp : retVal;		
 				}
 	
 			}
